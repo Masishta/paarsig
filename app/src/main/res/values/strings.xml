@@ -1,4 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Parsig</string>
+
+    <string name="app_name">Find Poet</string>
+    <string name="enter_string">Please Enter Your Keyword</string>
+    <string name="search">Search</string>
     <string name="action_settings">Settings</string>
+
 </resources>
