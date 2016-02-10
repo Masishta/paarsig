@@ -16,11 +16,11 @@ public class ParsigInfoHolder
   public ParsigInfoHolder (String persian, String description, String english,
                            String deutsch, String french, String reference)
   {
-    pes = persian;
+    pes  = persian;
     desc = description;
-    en = english;
-    de = deutsch;
-    fr = french;
+    en   = english;
+    de   = deutsch;
+    fr   = french;
     refs = reference;
   }
 
